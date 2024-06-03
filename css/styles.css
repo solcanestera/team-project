@@ -54,7 +54,7 @@ height: 329px;
 
 
 .img3 {
-    padding-left: 689px;
+    padding-left: 698px;
     padding-bottom: 0px;
     width: 312px;
 height: 337px;
@@ -106,20 +106,22 @@ top: -186px;
 
 .about-us {
     display: flex;
-    width: 760px;
-height: 500px;
-top: 810px;
-left: 60px;
-gap: 0px;
-opacity: 0px;
+    width: 1320px;
+    height: 540px;
+    top: 789px;
+    left: 60px;
+    gap: 0px;
+    opacity: 0px;
+    gap: 24px;
 margin-top: 100px;
 margin-bottom: 100px;
 }
 
 .about-us__section {
-    margin-top: 20px;
+ margin-top: 100px;
     margin-right: 24px;
     margin-left: 60px;
+    margin-bottom: 119px;
       background-color: #F7FAFF;
     width: 760px;
 height: 500px;
